@@ -22,9 +22,9 @@
 
 body {
   -webkit-animation: bgcolor 20s infinite;
-  animation: bgcolor 7s infinite;
-  -webkit-animation-direction: alternate;
-  animation-direction: alternate;
+  animation: bgcolor 10s infinite;
+  -webkit-animation-direction: alternate-reverse;
+  animation-direction: alternate-reverse;
 }
 span
 {
